@@ -143,7 +143,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 <p>
 
 <img src="https://img.shields.io/badge/Power_BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="<img src="./tableau-icon.svg.webp.svg" alt="Tableau" width="50"/></svg>
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
 <img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
 <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
