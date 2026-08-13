@@ -140,7 +140,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Power%20BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
