@@ -140,12 +140,20 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p>
-  <img src="./assets/icons/powerbi.svg"alt="Power BI"/>
-  <img src="./assets/icons/tableau.svg" width="48" height="48" alt="Tableau"/>
-  <img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib"/>
-  <img src="./assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn"/>
-  <img src="./assets/icons/plotly.svg"alt="Plotly"/>
+## Data Visualization & BI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logo=tableau&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge&logo=seaborn&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
+
 </p>
 
 | Tool | Purpose |
