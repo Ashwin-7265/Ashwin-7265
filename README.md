@@ -142,9 +142,9 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p align="center">
 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="48" alt="Power BI"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="48" alt="Tableau"/>
-<img src="https://img.icons8.com/color/48/matplotlib.png" width="48" alt="Matplotlib"/>
+<img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" alt="Power BI"/>
+<img src="https://cdn.simpleicons.org/tableau" width="48" height="48" alt="Tableau"/>
+<img src="https://cdn.simpleicons.org/matplotlib" width="48" height="48" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge"/>
 <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="36" alt="Plotly"/>
 
