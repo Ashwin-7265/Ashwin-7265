@@ -72,7 +72,7 @@ Hi 👋 I'm Ashwin
 
 # About Me
 
-I'm a **Third Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+I'm a **Final Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
 
 I enjoy the full data lifecycle — from data cleaning and exploratory data analysis (EDA) to building predictive models and communicating insights through clean, well-designed dashboards and visualizations.
 
