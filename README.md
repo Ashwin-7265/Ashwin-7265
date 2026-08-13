@@ -72,7 +72,7 @@ Hi 👋 I'm Ashwin
 
 # About Me
 
-I'm a **Third Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+I'm a **Final Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
 
 I enjoy the full data lifecycle — from data cleaning and exploratory data analysis (EDA) to building predictive models and communicating insights through clean, well-designed dashboards and visualizations.
 
@@ -143,7 +143,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 <p>
 
 <img src="https://img.shields.io/badge/Power_BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logo=tableau&logoColor=black"/>
+<img src="<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 600"><path fill="#7099A6" d="M290.5 33.3v27.3h-48.8v17.7h48.8v54.3h19V78.3h50V60.6h-50V6h-19z"/><path fill="#EB912C" d="M131 102.5V142H57v24.8h74v80.4h27.4V167h75v-24.8h-75V62.9H131z"/><path fill="#59879B" d="M440.5 102.5V142h-73.8v26h73.8v79.2H469V168h74v-26h-74V62.9h-28.5z"/><path fill="#E8762C" d="M283.4 237.3v44.4h-82.2v33h82.2v88.8h33.2v-88.7h82.2v-33.1h-82.2V193h-33.2z"/><path fill="#5B6591" d="M525 259.7v27.9h-50V310h50v55.6h25V310h50v-22.5h-50V232h-25z"/><path fill="#7099A6" d="M48.8 262.2v26.6H0v18.8h48.8V361h19v-53.3l50-1.7v-17.1h-50v-53.2h-19z"/><path fill="#C72035" d="M131 387.5v39.6H57v26h74v79.3h28.5v-79.2h73.8V427h-73.8v-79.2H131z"/><path fill="#1F447E" d="M440.5 387.5v39.6h-73.8v24.8h73.8v80.5H469v-80.5h74v-24.8h-74v-79.2h-28.5z"/><path fill="#5B6591" d="M288.1 488.1v27.7h-50v22.5h50V594h25v-55.6h50v-22.5h-50v-55.5h-25z"/></svg>"/>
 <img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
 <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
