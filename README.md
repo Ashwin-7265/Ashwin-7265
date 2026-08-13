@@ -140,13 +140,12 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p>
+<p align="center">
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/matplotlib.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/seaborn.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/plotly.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=powerbi" width="50"/>
+<img src="https://skillicons.dev/icons?i=tableau" width="50"/>
+<img src="https://skillicons.dev/icons?i=matplotlib" width="50"/>
+<img src="https://skillicons.dev/icons?i=plotly" width="50"/>
 
 </p>
 
