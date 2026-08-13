@@ -10,7 +10,7 @@
 ![Location](https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-PLACEHOLDER--URL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PLACEHOLDER--URL-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://www.linkedin.com/in/ashwin-e-4b5aa7304/)](#)
 [![Email](https://img.shields.io/badge/Email-PLACEHOLDER%40email.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-PLACEHOLDER--USERNAME-4C1D95?style=for-the-badge&logo=github&logoColor=white)](#)
 
