@@ -72,7 +72,7 @@ Hi 👋 I'm Ashwin
 
 # About Me
 
-I'm a **Final Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+I'm a **Third Year Computer Science and Engineering student** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**.
 
 I enjoy the full data lifecycle — from data cleaning and exploratory data analysis (EDA) to building predictive models and communicating insights through clean, well-designed dashboards and visualizations.
 
@@ -141,10 +141,13 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 ## Data Visualization & BI
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/>
-  <img src="https://matplotlib.org/_static/logo2.svg" width="70" alt="Matplotlib"/>
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="50" alt="Plotly"/>
+
+<img src="https://img.shields.io/badge/Power_BI-D4AF37?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="36" alt="Plotly"/>
+
 </p>
 
 | Tool | Purpose |
