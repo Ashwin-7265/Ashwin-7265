@@ -150,7 +150,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge&logo=seaborn&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/plotly" width="48" height="48" alt="Plotly"/>
 
 </p>
 
