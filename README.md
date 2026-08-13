@@ -167,7 +167,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 <p>
 
 <img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git"/>
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="48" height="48" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter"/>
 <img src="https://cdn.simpleicons.org/streamlit" width="48" height="48" alt="Streamlit"/>
 <img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48" alt="MS Excel"/>
