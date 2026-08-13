@@ -141,24 +141,13 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 ## Data Visualization & BI
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/powerbi.svg"
-       width="48" height="48" alt="Power BI"/>
-  &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/tableau.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg"
        width="48" height="48" alt="Tableau"/>
+
   &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/matplotlib.svg"
-       width="48" height="48" alt="Matplotlib"/>
-  &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/seaborn.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg"
        width="48" height="48" alt="Seaborn"/>
-  &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/plotly.svg"
-       width="48" height="48" alt="Plotly"/>
 </p>
 
 | Tool | Purpose |
