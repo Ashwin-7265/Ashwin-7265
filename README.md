@@ -142,11 +142,11 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/matplotlib.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/seaborn.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/plotly.svg" width="50"/>
 
 </p>
 
