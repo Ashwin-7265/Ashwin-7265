@@ -140,12 +140,25 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p>
- <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="48" height="48" alt="Seaborn"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/powerbi.svg"
+       width="48" height="48" alt="Power BI"/>
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/tableau.svg"
+       width="48" height="48" alt="Tableau"/>
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/matplotlib.svg"
+       width="48" height="48" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/seaborn.svg"
+       width="48" height="48" alt="Seaborn"/>
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/plotly.svg"
+       width="48" height="48" alt="Plotly"/>
 </p>
 
 | Tool | Purpose |
