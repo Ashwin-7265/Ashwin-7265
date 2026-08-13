@@ -141,12 +141,12 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 ## Data Visualization & BI
 
 <p>
-  
-  <img src="https://cdn.simpleicons.org/powerbi" width="45"/>
-  <img src="https://cdn.simpleicons.org/tableau" width="45"/>
-  <img src="https://cdn.simpleicons.org/matplotlib" width="45"/>
-  <img src="https://cdn.simpleicons.org/seaborn" width="45"/>
-  <img src="https://cdn.simpleicons.org/plotly" width="45"/>
+
+  <img src="https://img.shields.io/badge/Power%20BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logo=tableau&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=matplotlib&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge&logo=seaborn&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black" height="45"/>
 
 </p>
 
