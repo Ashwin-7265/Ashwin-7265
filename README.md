@@ -140,9 +140,10 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p align="center">
+<p>
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
   <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Matplotlib-D4AF37?style=for-the-badge&logo=matplotlib&logoColor=black" width="50" alt="Matplotlib"/>
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="50" alt="Plotly"/>
 </p>
 
