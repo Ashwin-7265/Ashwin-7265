@@ -141,12 +141,9 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 ## Data Visualization & BI
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=powerbi" width="50"/>
-<img src="https://skillicons.dev/icons?i=tableau" width="50"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" width="50"/>
-<img src="https://skillicons.dev/icons?i=plotly" width="50"/>
-
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/>
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="50" alt="Plotly"/>
 </p>
 
 | Tool | Purpose |
