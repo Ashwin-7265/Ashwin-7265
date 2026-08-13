@@ -142,40 +142,18 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Ashwin-7265/Ashwin-7265/main/assets/icons/powerbi.svg"
-     width="48"
-     height="48"
-     alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power%20BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logo=tableau&logoColor=black"/>
 
-<img src="https://raw.githubusercontent.com/Ashwin-7265/Ashwin-7265/main/assets/icons/tableau.svg"
-     width="48"
-     height="48"
-     alt="Tableau"/>
+<img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge&logo=seaborn&logoColor=black"/>
 
-<img src="https://raw.githubusercontent.com/Ashwin-7265/Ashwin-7265/main/assets/icons/matplotlib.svg"
-     width="48"
-     height="48"
-     alt="Matplotlib"/>
-
-&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Ashwin-7265/Ashwin-7265/main/assets/icons/seaborn.svg"
-     width="48"
-     height="48"
-     alt="Seaborn"/>
-
-&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Ashwin-7265/Ashwin-7265/main/assets/icons/plotly.svg"
-     width="48"
-     height="48"
-     alt="Plotly"/>
+<img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black"/>
 
 </p>
+
 | Tool | Purpose |
 |------|---------|
 | Power BI / Tableau | Interactive dashboards & reporting |
