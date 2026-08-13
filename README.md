@@ -114,7 +114,7 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 <p>
 
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&logo=mysql&logoColor=black "/>
+<img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="MySQL"/>
 
 </p>
 
