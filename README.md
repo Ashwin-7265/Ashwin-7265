@@ -142,11 +142,20 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p>
 
-  <img src="https://cdn.simpleicons.org/powerbi" width="45"/>
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/matplotlib" width="45"/>
-  <img src="https://cdn.simpleicons.org/seaborn" width="45"/>
-  <img src="https://cdn.simpleicons.org/plotly" width="45"/>
+<!-- Power BI -->
+<img src="https://cdn.simpleicons.org/powerbi" width="45"/>
+
+<!-- Tableau -->
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="45"/>
+
+<!-- Matplotlib -->
+<img src="https://cdn.simpleicons.org/matplotlib" width="45"/>
+
+<!-- Seaborn -->
+<img src="https://cdn.simpleicons.org/seaborn" width="45"/>
+
+<!-- Plotly -->
+<img src="https://cdn.simpleicons.org/plotly" width="45"/>
 
 </p>
 
