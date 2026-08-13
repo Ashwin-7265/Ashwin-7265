@@ -140,14 +140,16 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 ## Data Visualization & BI
 
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" alt="Power BI"/>
-<img src="https://cdn.simpleicons.org/tableau" width="48" height="48" alt="Tableau"/>
-<img src="https://cdn.simpleicons.org/matplotlib" width="48" height="48" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="36" alt="Plotly"/>
-
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="48" height="48" alt="Seaborn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly"/>
 </p>
 
 | Tool | Purpose |
