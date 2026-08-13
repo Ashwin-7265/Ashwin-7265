@@ -124,9 +124,9 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-D4AF37?style=for-the-badge&logo=pandas&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-D4AF37?style=for-the-badge&logo=numpy&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scikit--learn-D4AF37?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
 
 </p>
 
