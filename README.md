@@ -142,11 +142,11 @@ I'm a **Certified Data Scientist (DataMites)**, and I continuously sharpen my sk
 
 <p>
 
-  <img src="https://img.shields.io/badge/Power%20BI-D4AF37?style=for-the-badge&logo=powerbi&logoColor=black" height="45"/>
-  <img src="https://img.shields.io/badge/Tableau-D4AF37?style=for-the-badge&logo=tableau&logoColor=black" height="45"/>
-  <img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=matplotlib&logoColor=black" height="45"/>
-  <img src="https://img.shields.io/badge/Seaborn-D4AF37?style=for-the-badge&logo=seaborn&logoColor=black" height="45"/>
-  <img src="https://img.shields.io/badge/Plotly-D4AF37?style=for-the-badge&logo=plotly&logoColor=black" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45"/>
 
 </p>
 
