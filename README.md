@@ -263,7 +263,7 @@ A regression model built to predict concrete strength/composition outcomes based
 |----------|---------|
 | **Type** | Regression |
 | **Tools** | Python, Pandas, Scikit-learn |
-| **Repository** | *Coming Soon* |
+| **Repository** | *(https://github.com/Ashwin-7265/Projects/blob/main/Concrete%20Compressive%20Strength%20Analysis.ipynb)* |
 
 </details>
 
@@ -280,7 +280,7 @@ A predictive model estimating cell phone price ranges based on device specificat
 |----------|---------|
 | **Type** | Price Prediction |
 | **Tools** | Python, Scikit-learn |
-| **Repository** | *Coming Soon* |
+| **Repository** | *(https://github.com/Ashwin-7265/Projects/blob/main/Cell%20Phone%20Price%20Prediction%20Updated%20(1).ipynb)* |
 
 </details>
 
@@ -297,7 +297,7 @@ A classification model predicting customer response to bank marketing campaigns,
 |----------|---------|
 | **Type** | Classification |
 | **Tools** | Python, Scikit-learn |
-| **Repository** | *Coming Soon* |
+| **Repository** | *(https://github.com/Ashwin-7265/Projects/blob/main/Portuguese%20Bank%20Marketing%20Campaign%20(1).ipynb)* |
 
 </details>
 
