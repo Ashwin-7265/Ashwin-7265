@@ -24,7 +24,7 @@ Hi 👋 I'm Ashwin
 
 <p align="center">
 
-![](https://img.shields.io/badge/Third%20Year-Engineering%20Student-B8860B?style=for-the-badge)
+![](https://img.shields.io/badge/Final%20Year-Engineering%20Student-B8860B?style=for-the-badge)
 
 ![](https://img.shields.io/badge/University-Jeppiaar%20Engineering%20College-8B6914?style=for-the-badge)
 
