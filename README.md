@@ -246,7 +246,7 @@ A machine learning digit classifier trained to recognize handwritten digits, bui
 | **Type** | Classification |
 | **Domain** | Computer Vision / ML |
 | **Tools** | Python, Scikit-learn |
-| **Repository** | *Coming Soon* |
+| **Repository** | *(https://github.com/Ashwin-7265/Projects/blob/main/Handwritten%20Digit%20Recognition%20.ipynb)* |
 
 </details>
 
