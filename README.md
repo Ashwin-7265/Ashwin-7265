@@ -314,7 +314,7 @@ A data analysis project exploring workforce performance patterns through EDA and
 |----------|---------|
 | **Type** | Exploratory Data Analysis |
 | **Tools** | Python, Pandas, Matplotlib/Seaborn |
-| **Repository** | *Coming Soon* |
+| **Repository** | *(https://github.com/Ashwin-7265/Projects/tree/main/Employee_performance_analysis)* |
 
 </details>
 
